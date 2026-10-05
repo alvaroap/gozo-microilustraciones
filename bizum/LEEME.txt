@@ -1,0 +1,8 @@
+bizum · paquete de microilustración animada gozobank
+
+bizum-entrada.webm / bizum-loop.webm  Vídeos con transparencia (Chrome, Edge, Firefox, Android). Reproduce la entrada una vez y encadena el bucle.
+bizum.png                              Fotograma fijo (movimiento reducido, carga inicial, miniaturas).
+master/                                  Secuencia PNG sin pérdida de cada tramo (30 fps, 512 px). Sirve para After Effects o para regenerar cualquier formato.
+crear-version-safari.command             Doble clic en un Mac para crear bizum-entrada.mov y bizum-loop.mov (HEVC con transparencia, Safari/iPhone). Necesita ffmpeg.
+insertar.html                            Ejemplo de uso en HTML: entrada + bucle, con alternativa para Safari y movimiento reducido.
+original/bizum.html                    Original editable (modelo, acabado y movimiento).

@@ -1,0 +1,21 @@
+{
+  "nombre": "bizum",
+  "tamano_px": 512,
+  "fps": 30,
+  "fondo": "transparente",
+  "entrada": {
+    "segundos": 1.1,
+    "fotogramas": 33
+  },
+  "loop": {
+    "segundos": 3.5,
+    "fotogramas": 105,
+    "sin_costura": true
+  },
+  "acabado": "Gozo_Chrome Illustration Edit.psd (curvas, granulado, mapa de degradado)",
+  "grano": {
+    "cantidad": 1.5,
+    "tamano_px_psd": 2
+  },
+  "creado": "2026-10-03T19:03:24.735Z"
+}
