@@ -1,0 +1,22 @@
+{
+  "nombre": "tarjeta-completa",
+  "movimiento": "entra y sale",
+  "tamano_px": 512,
+  "fps": 30,
+  "fondo": "transparente",
+  "entrada": {
+    "segundos": 2.35,
+    "fotogramas": 71
+  },
+  "loop": {
+    "segundos": 5.2,
+    "fotogramas": 156,
+    "sin_costura": true
+  },
+  "acabado": "Gozo_Chrome Illustration Edit.psd (curvas, granulado, mapa de degradado)",
+  "grano": {
+    "cantidad": 0.7,
+    "tamano_px_psd": 1.5
+  },
+  "creado": "2026-10-03T22:29:30.372Z"
+}

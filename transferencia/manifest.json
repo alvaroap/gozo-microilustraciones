@@ -1,0 +1,22 @@
+{
+  "nombre": "transferencia",
+  "movimiento": "modelo 3D; entra desde abajo; bucle: vuelo del storyboard",
+  "tamano_px": 512,
+  "fps": 30,
+  "fondo": "transparente",
+  "entrada": {
+    "segundos": 1.6,
+    "fotogramas": 48
+  },
+  "loop": {
+    "segundos": 5.3,
+    "fotogramas": 159,
+    "sin_costura": true
+  },
+  "acabado": "Gozo_Chrome Illustration Edit.psd (curvas, granulado, mapa de degradado)",
+  "grano": {
+    "cantidad": 0.7,
+    "tamano_px_psd": 1.5
+  },
+  "creado": "2026-10-04T07:55:09.680Z"
+}
